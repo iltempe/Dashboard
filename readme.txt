@@ -1,5 +1,5 @@
 
-Questa è la rubrica con i post (non sono dettagliatissimi dal punto di vista tecnico ma linciano materiale già in rete):
+Questa è la rubrica con i post (non sono dettagliatissimi ma linkano materiale già in rete):
 
 http://pratosmart.teo-soft.com/category/il-laboratorio-di-pratosmart/internet-nelle-cose/
 
